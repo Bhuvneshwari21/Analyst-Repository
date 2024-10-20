@@ -3,7 +3,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="Bhuvneshwari@21",
+  password="",
   database = "youtube_videos"
 )
 
